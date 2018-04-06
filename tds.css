@@ -1,0 +1,6 @@
+BODY {color: rgb(0,0,153); font-size: 10pt; font-family: Arial}
+a:link{color:#0D3ADF; font-style:normal; font-weight: bold;}
+a:visited{color:#00309C; font-weight: normal; font-style: normal; }
+a:hover{color:#0000ff;  background-color:#ffffff; }
+h2{font-size:100%;display:inline;font-style: normal;}
+

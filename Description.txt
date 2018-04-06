@@ -1,0 +1,13 @@
+PHP, MySQL username and password login demo.
+
+
+
+http://www.TheDemoSite.co.uk
+
+
+
+An example of a username & password login web based system, developed using MySQL, PHP and JavaScript. FREE cut-and-paste SQL, PHP and JavaScript code.
+
+A useful resource for PHP developers needing to connect to their MySQL database.
+
+AND its FREE!

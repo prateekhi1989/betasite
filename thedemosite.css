@@ -1,0 +1,3 @@
+BODY {color: rgb(128,0,128); font-size: 10pt; font-family: Verdana}
+.displayform {color: rgb(0,0,128); background-color: rgb(189,207,255); font-family: Arial; font-size: 7pt; font-weight: bold; border: medium none rgb(255,255,255)}
+.navi-box{WIDTH:10px;POSITION:absolute;TOP:10px;Z-INDEX:1;}
