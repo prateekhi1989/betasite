@@ -8,7 +8,7 @@ include("header.inc");
 <center><big><strong>1. Home </strong></big></center>
 </p>
 
-<p align="center">Follow the links above, in sequence, for an example of a username &amp;
+<p align="center">This is new change being introduced in siteFollow the links above, in sequence, for an example of a username &amp;
 password login web based system, developed using PHP, JavaScript and a MySQL database.</p>
 
 <p align="center">All files on this site are generated using a default header and footer
